@@ -1,5 +1,5 @@
 ---
-title: Snap Builder Quick start Intro [WIP]
+title: Snap Builder Quick Start Intro [WIP]
 keywords: snap
 sidebar: snap_sidebar
 permalink: index.html
