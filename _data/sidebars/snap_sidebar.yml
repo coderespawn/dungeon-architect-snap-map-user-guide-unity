@@ -1,0 +1,145 @@
+entries:
+- title: Sidebar
+  product: Snap Builder
+  version: v1.9+
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+    - title: Overview - START HERE
+      url: /index.html
+      output: web, pdf
+
+
+  - title: Basics
+    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /index2.html
+      output: web, pdf
+
+    - title: Modules
+      url: /basics_modules.html
+      output: web, pdf
+      
+    - title: Connections
+      url: /basics_connections.html
+      output: web, pdf
+
+    - title: Dungeon Flow
+      url: /basics_dungeon_flow.html
+      output: web, pdf
+
+
+  - title: Create Modules
+    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /create_modules_intro.html
+      output: web, pdf
+    
+    - title: Create a Connection Asset
+      url: /create_connection_asset.html
+      output: web, pdf
+    
+    - title: Create Room Module
+      url: /create_room_modules.html
+      output: web, pdf
+    
+    - title: Create more Room Modules
+      url: /create_more_room_modules.html
+      output: web, pdf
+    
+    
+  - title: Register Modules
+    output: web, pdf
+    folderitems:
+    - title: Module Database
+      url: /module_database.html
+      output: web, pdf
+    
+    - title: Register Modules
+      url: /register_modules.html
+      output: web, pdf
+    
+    
+  - title: Dungeon Flow
+    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /dungeon_flow_intro.html
+      output: web, pdf
+    
+    - title: Simple Graph
+      url: /dungeon_flow_simple_graph.html
+      output: web, pdf
+    
+    - title: Advanced graph
+      url: /dungeon_flow_advanced_graph.html
+      output: web, pdf
+    
+    
+  - title: Level Streaming		
+    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /level_streaming_intro.html
+      output: web, pdf
+    
+    - title: Navigation
+      url: /level_streaming_navigation.html
+      output: web, pdf
+    
+    
+  - title: Mini-map Framework	
+    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /mini_map_intro.html
+      output: web, pdf
+    
+    - title: Using Minimap
+      url: /mini_map_usage.html
+      output: web, pdf
+      
+  - title: Sample Game
+    output: web, pdf
+    folderitems:
+    - title: Walk-through
+      url: /sample_game_intro.html
+      output: web, pdf
+      
+    - title: Dungeon Flow Graph
+      url: /sample_game_flow_graph.html
+      output: web, pdf
+      
+    - title: Locking Rooms
+      url: /sample_game_locking_rooms.html
+      output: web, pdf
+      
+    - title: Minimap
+      url: /sample_game_minimap.html
+      output: web, pdf
+      
+    - title: Teleporters
+      url: /sample_game_teleporters.html
+      output: web, pdf
+      
+    
+    
+    
+    

@@ -1,0 +1,1 @@
+Documentation for SnapMap builder for Dungeon Architect (UE4)
